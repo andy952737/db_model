@@ -1,1 +1,5 @@
-# db_model
+# DB model
+
+# MySQL
+
+# PostgreSQL
